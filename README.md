@@ -54,6 +54,7 @@ Merci de lire les fichiers :
 ## Auteurs
 
 * **O.C.**
+* **Drissa Sagnon**
 
 ## License
 
